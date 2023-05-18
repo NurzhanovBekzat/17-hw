@@ -6,9 +6,7 @@ export const HeaderLink = () => {
   return (
     <Header>
       <h2>
-        <Link style={{ color: "white" }} to="IStore">
-          IStore
-        </Link>
+      IStore
       </h2>
       <LinkContains>
         <H3>

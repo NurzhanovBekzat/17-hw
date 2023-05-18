@@ -1,21 +1,27 @@
 export const ProdictsIphone = [
   {
-    url: "https://res.cloudinary.com/grover/image/upload/f_webp,q_auto/b_white,c_pad,dpr_2.0,h_500,w_520/f_auto,q_auto/v1632431854/klbdqozeovfuq8qyrk7m.png",
+    url: "https://softech.kg/image/cache/9e06ee075dd34c29d42432a52799a572.png",
     price: 890,
-    titile: "iphone 13 pro max",
-    id: Date.now().toString(),
+    titile: "iphone 13 pro",
+    id: "1",
+    infarmation:
+      "Apple iPhone 14 Pro Max получил большой и в то же самое время очень качественный дисплей. Он поддерживает повышенную частоту обновления 120 Гц, что стало стандартом для современных смартфонов. Однако, панель использует продвинутую технологию, которая сильно экономит заряд батареи.",
   },
   {
-    url: "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/GXHMGQ4UAFCA3MUWIIN7NDMCZA.jpg",
+    url: "https://softech.kg/image/cache/d60479dae7315ec929331682cb39c6b1.png",
     price: 949,
-    titile: "iphone 13 pro max",
-    id: Date.now().toString(),
+    titile: "iphone 13 pro",
+    id: "2",
+    infarmation:
+      "Apple iPhone 14 Pro Max получил большой и в то же самое время очень качественный дисплей. Он поддерживает повышенную частоту обновления 120 Гц, что стало стандартом для современных смартфонов. Однако, панель использует продвинутую технологию, которая сильно экономит заряд батареи.",
   },
 
   {
-    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjn6-yjNFdaL9AIPEcMGuQ4wytCp8gWFTwA&usqp=CAU",
+    url: "https://softech.kg/image/cache/63ccea961faf68e3d9e4b6f1e4d845c8.jpg ",
     price: 1149,
     titile: "iphone 14 pro max",
-    id: Date.now().toString(),
+    id: "3",
+    infarmation:
+      "Apple iPhone 14 Pro Max получил большой и в то же самое время очень качественный дисплей. Он поддерживает повышенную частоту обновления 120 Гц, что стало стандартом для современных смартфонов. ",
   },
 ];
